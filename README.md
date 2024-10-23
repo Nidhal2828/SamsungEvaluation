@@ -1,0 +1,1 @@
+Pour le test Ajout Panier, j'arrive pas à comprendre pourquoi avec le xpath je reçois un message d'erreur, du coup j'ai effectué une recherche pour trouver une autre méthode de localisation et j'ai trouvé celle du css. En utilisant cette méthode le test a fonctionné
